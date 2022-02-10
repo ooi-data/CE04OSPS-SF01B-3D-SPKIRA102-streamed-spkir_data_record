@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSPS-SF01B-3D-SPKIRA102-streamed-spkir_data_record
 data_stream: CE04OSPS-SF01B-3D-SPKIRA102-streamed-spkir_data_record
 end_date: '2022-02-07T19:16:29.136Z'
-last_updated: '2022-02-10T14:27:03.946076Z'
+last_updated: '2022-02-10T15:35:27.921779'
 start_date: '2015-08-03T15:13:41.690Z'
-status: pending
+status: failed
